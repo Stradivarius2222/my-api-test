@@ -8,5 +8,10 @@
     "judul": "Cyberpunk 2077",
     "genre": "Action",
     "rating": 8.8
+  },
+  {
+    "judul": "Minecraft",
+    "genre": "Sandbox",
+    "rating": 9.0
   }
 ]
