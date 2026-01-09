@@ -1,12 +1,10 @@
 [
   {
-    "id": 1,
     "judul": "Elden Ring",
     "genre": "RPG",
     "rating": 9.5
   },
   {
-    "id": 2,
     "judul": "Cyberpunk 2077",
     "genre": "Action",
     "rating": 8.8
